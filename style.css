@@ -1,0 +1,7 @@
+.gradiente {
+    font-size: 200px;
+    font-weight: bold;
+    background-image: linear-gradient(to top, #002d80, #dbccfd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
